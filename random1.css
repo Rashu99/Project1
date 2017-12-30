@@ -1,0 +1,33 @@
+
+body{
+	background-image: url("http://kenikin.com/w/chess-Wallpaper-Mobile-number-7nz.jpg");
+	
+}
+
+.nis2{
+	
+	width: 750px;
+	height: 200px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: white;
+	margin-top:  200px;
+	margin-left: 250px;
+	margin-right: 250px;
+	font-size: 25px;
+	color: gold;
+	text-align: center;
+	padding: 70px 40px;
+	font-family: Georgia;
+    
+
+}
+.nis3{
+	margin-left: 800px;
+	margin-top: 20px;
+}
+
+h1{
+	color: silver;
+	font-family: sans-serif;
+}
